@@ -16,3 +16,5 @@ Para que eu possa agendar uma consulta
 - #2 (Estimativa - 2): Reposicionar a opção de login para uma área mais vísivel do site.
 
 - #3 (Estimativa - 5): Aprimorar a busca do login digitado no banco de dados. 
+
+#### Prioridade:
